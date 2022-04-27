@@ -8,15 +8,16 @@ They are interested in ethics, software development, engineering, and data vis. 
 ## Projects
 
 ### ValetBike
+![ValetBike logo](images/valetbike_logo3.png)
+
 [ValetBike on Heroku](https://valetbike-kales.herokuapp.com/)
 
 [Check out the repository!](https://github.com/epartakki/valetbike)
-
-![ValetBike logo](images/valetbike_logo3.png)
 
 ### Anamnesis
 [Anamnesis on Replit](https://replit.com/@alinemarrap/Anamnesis)
 
 ### Math Art
+![mod25 table](images/mod_table.png)
 
 [artShow on Replit](https://replit.com/@alinemarrap/Anamnesis)
