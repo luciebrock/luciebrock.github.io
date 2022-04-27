@@ -1,23 +1,27 @@
-# About Lucie
+# about lucie
 
-Lucie Brock is a Smith College student and teaching assistant in the class of 2024, with a double major in CS & Philosophy. 
-They are interested in ethics, software development, engineering, and data vis. This summer, they are headed to Virginia to work as a software engineering intern at MITRE. And, next spring they head off to Oxford as a visiting student to further their studies in Computer Science and Philosophy.
+lucie brock is a smith college student and teaching assistant in the class of 2024, with a double major in cs & philosophy. 
+they are interested in ethics, software development, engineering, and data vis. this summer, they are headed to virginia to work as a software engineering intern at MITRE. and, next spring they head off to oxford as a visiting student to further their studies in computer science and philosophy.
 
-![Lucie Brock, 2021](images/me.png)
+![lucie brock, 2021](images/me.png)
 
 ## Projects
 
-### ValetBike
-![ValetBike logo](images/valetbike_logo3.png)
+### valetbike
+![valetbike logo](images/valetbike_logo3.png)
+worked on a team of 5 to produce a bikesharing app for the final project in introduction to software engineering. using ruby on rails, HTML, CSS, JavaScript, and a lot of redbull, our team produced a sleek and straightforward MVP. our team *won* the 2022 Demo Day for our course, in which all 6 teams in the class presented their bike sharing app (under the name ValetBike), and competed for the best minimum viable product. 
 
-[ValetBike on Heroku](https://valetbike-kales.herokuapp.com/)
+[valetbike on Heroku](https://valetbike-kales.herokuapp.com/)
 
-[Check out the repository!](https://github.com/epartakki/valetbike)
+[check out the repository!](https://github.com/epartakki/valetbike)
 
-### Anamnesis
-[Anamnesis on Replit](https://replit.com/@alinemarrap/Anamnesis)
+### anamnesis
+![the player character](images/little_ghost2.png)
+collaborated with a team of 2 students to produce a robust text-based adventure game titled anamnesis in java (with the guava package). the project recieved a 30/30 (100%) score as a final project in introduction to data structures, a highly competitive and challenging course. includes around 5,000 words of flavor text, and a compelling plot line. try it out!
 
-### Math Art
-![mod25 table](images/mod_table.png)
+[anamnesis on Replit](https://replit.com/@alinemarrap/Anamnesis)
+
+### math art
+![mod26 table](images/mod25.png)
 
 [artShow on Replit](https://replit.com/@alinemarrap/Anamnesis)
