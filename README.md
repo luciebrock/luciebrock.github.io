@@ -30,3 +30,8 @@ collaborated with a team of 2 students to produce a robust text-based adventure 
 collaborated with a classmate (and dear friend) to produce a "calculator" that produces some pretty math art using modulo addition/multiplicaiton tables, does the euclidean/reverse euclidean formula, has a binary search visualization, and a few other random methods. this project was presented for the end of year art show in discrete mathemtatics. have a look!
 
 [artShow on Replit](https://replit.com/@alinemarrap/Anamnesis)
+
+# music
+![flowers @ smith college](images/flowers.png)
+
+[bloom - paper kites cover demo](https://soundcloud.com/user-799120184/bloom_demo?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
