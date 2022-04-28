@@ -32,6 +32,6 @@ produce a "calculator" with a classmate (and dear friend) that produces some ~pr
 [artShow on Replit](https://replit.com/@alinemarrap/Anamnesis)
 
 # music
-![flowers @ smith college](images/flowers.png)
+![flowers @ smith college](images/flowerss.png)
 
 [bloom - paper kites cover demo](https://soundcloud.com/user-799120184/bloom_demo?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
