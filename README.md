@@ -27,7 +27,7 @@ collaborated with a team of 2 students to produce a robust text-based adventure 
 ### math art
 ![mod26 table](images/mod25.png)
 
-produce a "calculator" with a classmate (and dear friend) that produces some ~pretty math art~ using modulo addition/multiplicaiton tables, does the euclidean/reverse euclidean formula, has a binary search visualization, and a few other random methods. this project was presented for the end of year art show in discrete mathemtatics. have a look!
+produced a "calculator" (of sorts) with a classmate (and dear friend) that produces some ~pretty math art~ using modulo addition/multiplicaiton tables, does the euclidean/reverse euclidean formula, has a binary search visualization, and a few other random methods. this project was presented for the end of year art show in discrete mathemtatics. have a look!
 
 [artShow on Replit](https://replit.com/@alinemarrap/Anamnesis)
 
