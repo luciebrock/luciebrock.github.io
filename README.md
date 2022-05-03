@@ -32,6 +32,6 @@ produced a "calculator" (of sorts) with a classmate (and dear friend) that produ
 [artShow on Replit](https://replit.com/@alinemarrap/Anamnesis)
 
 # "art"
-[![bloom - paper kites cover demo](images/flower.jpeg)](https://soundcloud.com/user-799120184/bloom_demo?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing))
+[![bloom - paper kites cover demo](images/flower.jpeg)](https://soundcloud.com/user-799120184/bloom_demo?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
 
 [![lucie's "art" gallery](images/gallery.jpg)](https://luciebrock.pixieset.com/lucieart/)
