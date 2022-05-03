@@ -31,7 +31,11 @@ produced a "calculator" (of sorts) with a classmate (and dear friend) that produ
 
 [artShow on Replit](https://replit.com/@alinemarrap/Anamnesis)
 
-# music
+# "art"
 ![flowers @ smith college](images/flowerss.png)
 
 [bloom - paper kites cover demo](https://soundcloud.com/user-799120184/bloom_demo?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
+
+![looking at stuff @ mass moca](images/artcover.jpg)
+
+[lucie's "art" gallery](https://luciebrock.pixieset.com/lucieart/)
