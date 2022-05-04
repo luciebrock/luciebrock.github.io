@@ -10,7 +10,7 @@ outside of academia, lucie is a member of the smith college vibes a capella grou
 
 [![valetbike theme](images/bg.png)](https://valetbike-kales.herokuapp.com/)
 
-worked on a team of 5 to produce a bikesharing app for the final project in introduction to software engineering. using ruby on rails, HTML, CSS, JavaScript, and a lot of redbull, our team produced a sleek and straightforward MVP. **our team won the 2022 Demo Day** for our course, in which all 6 teams in the class presented their bike sharing app (under the name ValetBike), and competed for the best minimum viable product. 
+worked on a team of 5 to produce a bikesharing app for the final project in introduction to software engineering. using ruby on rails, HTML, CSS, JavaScript, and a lot of redbull, our team produced a sleek and straightforward minimum viable product. **our team won the 2022 Demo Day** for our course, in which all 6 teams in the class presented their bike sharing app (under the name ValetBike), and competed for the best MVP. 
 
 [check out the repository!](https://github.com/epartakki/valetbike)
 
