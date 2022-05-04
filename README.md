@@ -29,4 +29,5 @@ produced a "calculator" (of sorts) with a classmate (and dear friend) that produ
 
 ## contact
 email: lmbrock@smith.edu
+
 discord: chapstickwearer#0207
