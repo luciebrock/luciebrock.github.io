@@ -26,3 +26,7 @@ produced a "calculator" (of sorts) with a classmate (and dear friend) that produ
 [![bloom - paper kites cover demo](images/flower.jpeg)](https://soundcloud.com/user-799120184/bloom_demo?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
 
 [![lucie's "art" gallery](images/gallery.jpg)](https://luciebrock.pixieset.com/lucieart/)
+
+## contact
+email: lmbrock@smith.edu
+discord: chapstickwearer#0207
