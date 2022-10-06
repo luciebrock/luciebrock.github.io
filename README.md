@@ -6,6 +6,10 @@ outside of academia, lucie is a member of the smith college vibes a capella grou
 
 ![lucie brock, 2022](images/me.png)
 
+# resume
+[![clickable image](images/resume.png)](https://drive.google.com/file/d/1eRca5jBBJCkvFfz7zWRf6mL0tZGvKRDm/view?usp=sharing)
+
+
 # projects
 
 [![valetbike theme](images/bg.png)](https://valetbike-kales.herokuapp.com/)
