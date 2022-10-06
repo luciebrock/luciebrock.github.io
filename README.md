@@ -1,7 +1,7 @@
 # about lucie
 
-lucie brock (they/them) is a smith college student and teaching assistant in the class of 2024, with a double major in cs & philosophy. 
-they are interested in ethics, software development, engineering, and data vis. this summer, they are headed to virginia to work as a software engineering intern at MITRE. and, next spring they head off to oxford as a visiting student to further their studies in computer science and philosophy.
+lucie brock (they/them) is a smith college student in the class of 2024, with a double major in cs & philosophy. 
+they are interested in ethics, software development, engineering, and data vis. this past summer, they worked in virginia as a transportation safety  engineering intern at MITRE. and, this spring they head off to oxford as a visiting student to further their studies in computer science and philosophy.
 outside of academia, lucie is a member of the smith college vibes a capella group, plays guitar, enjoys minecraft, and has a passion for collecting random gadgets and gizmos (always looking for a project). 
 
 ![lucie brock, 2022](images/m.png)
