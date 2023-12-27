@@ -1,8 +1,8 @@
 # about lucie
 
-lucie brock (they/them) is a smith college student in the class of 2024, with a double major in cs & philosophy. 
-they are interested in ethics, software development, engineering, and data vis. this past summer, they worked in virginia as a transportation safety  engineering intern at MITRE. and, this spring they head off to oxford as a visiting student to further their studies in computer science and philosophy.
-outside of academia, lucie is a member of the smith college vibes a capella group, plays guitar, enjoys minecraft, and has a passion for collecting random gadgets and gizmos (always looking for a project). 
+lucie brock (they/them) is a smith college student graduating may 2024, with a double major in cs & philosophy. 
+they are interested in ethics of AI and ethical computing practice. for the past two summers, they have worked in virginia as a transportation safety engineering intern at MITRE. this past spring they spent six months in oxford as a visiting student.
+outside of academia, lucie is the president of the smith college vibes a capella group, plays guitar, enjoys minecraft, and has a passion for collecting random gadgets and gizmos.
 
 ![lucie brock, 2022](images/me.png)
 
@@ -11,11 +11,10 @@ outside of academia, lucie is a member of the smith college vibes a capella grou
 
 # projects
 
-[![valetbike theme](images/bg.png)](https://valetbike-kales.herokuapp.com/)
+[![valetbike theme](images/bg.png)](https://github.com/epartakki/valetbike)
 
 worked on a team of 5 to produce a bikesharing app for the final project in introduction to software engineering. using ruby on rails, HTML, CSS, JavaScript, and a lot of redbull, our team produced a sleek and straightforward minimum viable product. **our team won the 2022 Demo Day** for our course, in which all 6 teams in the class presented their bike sharing app (under the name ValetBike), and competed for the best MVP. 
 
-[check out the repository!](https://github.com/epartakki/valetbike)
 
 [![the player character](images/little_ghost2.png)](https://replit.com/@alinemarrap/Anamnesis)
 
@@ -31,6 +30,4 @@ produced a "calculator" (of sorts) with a classmate (and dear friend) that produ
 [![lucie's "art" gallery](images/gallery.jpg)](https://luciebrock.pixieset.com/lucieart/)
 
 ## contact
-email: lmbrock@smith.edu
-
-discord: chapstickwearer#0207
+email: lmbrock[at]smith[dot]edu
