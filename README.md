@@ -8,7 +8,7 @@ Outside of academia, I am the president of the Smith College Vibes a capella gro
 [![clickable image](images/resume.png)](https://drive.google.com/file/d/1sZIEfYXtJfOIlvHNCBtIvz_KgagBEh39/view?usp=sharing)
 
 
-# projects
+# Projects
 [![bee model](images/bee_game.png)](https://replit.com/@lmbrock/BuzzQuest)
 
 I made a game (generously put) using JavaScript, HTML, and Blender. For instructions on how to use it, see the readme. This project was made for a final project in my Computer Graphics course. Check it out!
@@ -25,10 +25,7 @@ I collaborated with a team of 2 students to produce a robust text-based adventur
 
 I produced a "calculator" (of sorts) with a classmate (and dear friend) that produces ~pretty math art~ using modulo addition/multiplicaiton tables, does the euclidean/reverse euclidean formula, has a binary search visualization, and a few other random methods. This project was presented for the end of year art show in discrete mathemtatics. Have a look!
 
-# "art"
+# "Art"
 [![bloom - paper kites cover demo](images/flower.jpeg)](https://soundcloud.com/user-799120184/bloom_demo?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
 
 [![lucie's "art" gallery](images/gallery.jpg)](https://luciebrock.pixieset.com/lucieart/)
-
-## contact
-email: lmbrock[at]smith[dot]edu
