@@ -15,7 +15,7 @@ I made a game (generously put) using JavaScript, HTML, and Blender. For instruct
 
 [![valetbike theme](images/bg.png)](https://github.com/epartakki/valetbike)
 
-I worked on a team of 5 to produce a bikesharing app for the final project in introduction to software engineering. Using Ruby on Rails, HTML, CSS, JavaScript, and a lot of redbull, our team produced a sleek and straightforward minimum viable product. **Our team won the 2022 Demo Day** for our course, in which all 6 teams in the class presented their bike sharing app (under the name ValetBike), and competed for the best MVP. Check out our repository!
+I worked on a team of 5 to produce a bikesharing app for the final project in introduction to software engineering. Using Ruby on Rails, HTML, CSS, JavaScript, and a lot of Redbull, our team produced a sleek and straightforward minimum viable product. **Our team won the 2022 Demo Day** for our course, in which all 6 teams in the class presented their bike sharing app (under the name ValetBike), and competed for the best MVP. Check out our repository!
 
 [![the player character](images/little_ghost2.png)](https://replit.com/@alinemarrap/Anamnesis)
 
