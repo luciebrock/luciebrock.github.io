@@ -4,7 +4,7 @@
 I am a Smith College student graduating in May 2024, with a double major in CS & Philosophy. I am interested in ethics of AI and ethical computing practice. For the past two summers, I have worked in Virginia as a Transportation Safety Engineering intern at MITRE. This past spring I spent six months at the University of Oxford as a visiting student. 
 Outside of academia, I am the president of the Smith College Vibes a capella group, I play guitar, enjoy minecraft, and have a passion for collecting gadgets and gizmos.
 
-![lucie brock, 2022](images/me.png)
+![lucie brock, 2022](images/lucie_photo.png)
 
 [![clickable image](images/resume.png)](https://drive.google.com/file/d/1eRca5jBBJCkvFfz7zWRf6mL0tZGvKRDm/view?usp=sharing)
 
