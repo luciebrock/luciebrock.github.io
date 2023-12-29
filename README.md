@@ -5,7 +5,7 @@ Outside of academia, I am the president of the Smith College Vibes a capella gro
 
 ![lucie brock, 2022](images/lucie_photo.png)
 
-[![clickable image](images/resume.png)](https://drive.google.com/file/d/1sZIEfYXtJfOIlvHNCBtIvz_KgagBEh39/view?usp=sharing)
+[![clickable image](images/cv.png)](https://drive.google.com/file/d/1ZAJjwLL1-1v8h-MGZwQYphOwAiynH1hD/view?usp=sharing)
 
 
 # Projects
