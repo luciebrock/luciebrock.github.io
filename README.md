@@ -11,8 +11,6 @@ Northfield Mount Hermon - 2020
 
 ![lucie brock, 2022](images/lucie_photo.png)
 
-[![clickable image](images/cv.png)](https://drive.google.com/file/d/1ZAJjwLL1-1v8h-MGZwQYphOwAiynH1hD/view?usp=sharing)
-
 
 # Little Projects
 [![bee model](images/bee_game.png)](https://replit.com/@lmbrock/BuzzQuest)
