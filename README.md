@@ -26,7 +26,7 @@ This game was made in collaboration with 2 classmates. It is a robust text-based
 This is a "calculator" (of sorts) made with a classmate (and dear friend) that produces ~pretty math art~ using modulo addition/multiplicaiton tables, does the euclidean/reverse euclidean formula, has a binary search visualization, and a few other random methods. Have a look!
 
 # "Art"
-[![a cappella videos](images/vibesjpeg)](https://www.youtube.com/user/SmithVibes)
+[![a cappella videos](images/vibes.png)](https://www.youtube.com/user/SmithVibes)
 
 [![bloom - paper kites cover demo](images/flower.jpeg)](https://soundcloud.com/user-799120184/bloom_demo?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
 
