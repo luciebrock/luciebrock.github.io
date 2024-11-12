@@ -1,10 +1,12 @@
 # About
 
-Lucie Brock is a data engineer at MITRE in the Data Environments & Engineering department, currently working on the BioMADE project. They are interested in ethics of AI and ethical computing practice. Outside of work, they entertain themself by making music, sewing cat toys, making mining machines in minecraft, and they have a general passion for collecting gadgets and gizmos.
+Lucie Brock (they/them) is a data engineer at MITRE in the Data Environments & Engineering department, currently working on the BioMADE project. They are interested in ethics of AI and ethical computing practice. Outside of work, they entertain themself by making music, sewing cat toys, making mining machines in minecraft, and they have a general passion for collecting gadgets and gizmos.
 
 ## Education
 Smith College - 2024 - B.A. in CS & Philosophy
+
 University of Oxford, Lady Margaret Hall - Visiting Student Program
+
 Northfield Mount Hermon - 2020
 
 ![lucie brock, 2022](images/lucie_photo.png)
